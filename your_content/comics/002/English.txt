@@ -1,3 +1,6 @@
-NARRATOR: This is an English transcript.
+NARRATOR: Magic is like falling, the higher your fall ...
 
-NARRATOR: See [the documentation](https://comic-git.gitbook.io/documentation/advanced-editing/extra-features#transcripts) for more information on how to use this feature.
+[SFX: CRASH!]
+
+###### TWITCH Random chatter character from: Gigabyte_Dragon
+NARRATOR: ... the stronger and more unpredictable the impact.
