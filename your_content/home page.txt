@@ -45,5 +45,5 @@
 <h2>Check out my other comic, Star Warriors!</h2>
 
         <a href="https://www.starwarriorscomic.com">
-            <img src="your_content/images/SWBannerFG.png">
+            <img src="https://www.wildsurgecomic.com/your_content/images/SWBannerFG.png">
         </a>
