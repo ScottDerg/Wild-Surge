@@ -15,12 +15,12 @@
      wider than the right, change the class to "left-column-layout"! -->
 
 <!-- Next, we separate what we want into the left and right columns. -->
-    <div class="left-column-layout">
+    <div class="left-column">
             <img src="your_content/images/Sally.png"
                  alt="The yellow dog Sally holding an orb of power that seems to be sparking, she herself looks concerned and strained.">
     </div>
 
-    <div class="right-column">
+    <div class="right-column-layout">
         <h1>Welcome to the world of <i>Wild Surge!</i></h1>
 		<p>In this world, every sentient living creature is blessed with magic, all with the exception of animals. So it's a huge mystery when from the sky a dog comes crashing down who seems to have magical abilities of her own!</p>
 		
@@ -45,7 +45,5 @@
 <h2>Check out my other comic, Star Warriors!</h2>
 
         <a href="https://www.starwarriorscomic.com">
-            <img src="your_content/images/SWBannerFG.png"
-                 alt="A banner of the webcomic <i>Star Warriors</i> depicting an anthro fox named Ezmeralda who is missing an arm holding up a shiny star, a small rat with a red glowing rapier named Anthrax, a human taking a picture with her phone named Weaver. In the back there is another anthro fox with glowing golden claws and long hair named Miracle and an anthro lizard who looks grumpy named Savra. In the back there is a large shiny structure floating in space."
-                 title="My other comic Star Warriors!">
+            <img src="your_content/images/SWBannerFG.png">
         </a>
