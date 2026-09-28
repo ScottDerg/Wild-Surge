@@ -1,0 +1,1 @@
+<p class="infobox"><img src="your_content/images/Website banner.png"></p>

@@ -15,7 +15,7 @@
      wider than the right, change the class to "left-column-layout"! -->
 
 <!-- Next, we separate what we want into the left and right columns. -->
-    <div class="left-column">
+    <div class="left-column-layout">
             <img src="your_content/images/Sally.png"
                  alt="The yellow dog Sally holding an orb of power that seems to be sparking, she herself looks concerned and strained.">
     </div>
@@ -27,7 +27,7 @@
 		<h2>The comic is just starting!</h2>
 		<p>More will be unfolding so check out the comic as the setting expands!</p>
 	
-        <!-- If you want to make your link look like a button, add class="button" to your 'a' tag like so: -->
+        <!-- Navigation bars in the main page go here -->
 		<a href="comic/001/#comic-page">
             <img src="your_content/images/navigation_icons/Icon_First.png"
                  alt="comic_git logo: Fancy arrow pointing left with the words "First"!"
@@ -37,19 +37,15 @@
             <img src="your_content/images/navigation_icons/Icon_Latest.png"
                  alt="Fancy arrow pointing left with the words "Latest"!"
                  title="Latest page!">
-
-        <!--
-        If you want to set some information apart, you can set the class as "infobox"! That will put your content in a
-        different block of color, which can be defined in stylesheet.css.
-        -->
        
     </div>
 </div>
 <!-- That's the end of the column layout! Everything below this is just normal HTML. -->
 
 <h2>Check out my other comic, Star Warriors!</h2>
+
         <a href="https://www.starwarriorscomic.com">
             <img src="your_content/images/SWBannerFG.png"
-                 alt="A banner of the webcomic "Star Warriors" depicting an anthro fox named Ezmeralda who is missing an arm holding up a shiny star, a small rat with a red glowing rapier named Anthrax, a human taking a picture with her phone named Weaver. In the back there is another anthro fox with glowing golden claws and long hair named Miracle and an anthro lizard who looks grumpy named Savra. In the back there is a large shiny structure floating in space."
+                 alt="A banner of the webcomic <i>Star Warriors</i> depicting an anthro fox named Ezmeralda who is missing an arm holding up a shiny star, a small rat with a red glowing rapier named Anthrax, a human taking a picture with her phone named Weaver. In the back there is another anthro fox with glowing golden claws and long hair named Miracle and an anthro lizard who looks grumpy named Savra. In the back there is a large shiny structure floating in space."
                  title="My other comic Star Warriors!">
         </a>
