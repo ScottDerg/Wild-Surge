@@ -31,12 +31,12 @@
 		<a href="comic/001/#comic-page">
             <img src="your_content/images/navigation_icons/Icon_First.png"
                  alt="comic_git logo: Fancy arrow pointing left with the words "First"!"
-                 title="First page!">
+                 title="First page!"></a>
 				 
         		<a href="latest/#comic-page">
             <img src="your_content/images/navigation_icons/Icon_Latest.png"
                  alt="Fancy arrow pointing left with the words "Latest"!"
-                 title="Latest page!">
+                 title="Latest page!"></a>
        
     </div>
 </div>
