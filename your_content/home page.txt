@@ -6,7 +6,7 @@
 -->
 
 <h1>~True power can NEVER be controlled~</h1>
-<img>your_content/images/Website banner.png</img>
+<img src="your_content/images/Website banner.png">
 
 <!-- The front page uses a responsive 2-column layout. This is done by first defining what content is going to be in
      the column layout, like so. -->
