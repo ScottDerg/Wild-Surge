@@ -6,7 +6,7 @@
 -->
 
 <h1>~True power can NEVER be controlled~</h1>
-<img src="your_content/images/Website banner.png">
+<p class="infobox"><img src="your_content/images/Website banner.png"></p>
 
 <!-- The front page uses a responsive 2-column layout. This is done by first defining what content is going to be in
      the column layout, like so. -->
@@ -16,35 +16,40 @@
 
 <!-- Next, we separate what we want into the left and right columns. -->
     <div class="left-column">
-        <a href="https://comic-git.gitbook.io/documentation">
             <img src="your_content/images/Sally.png"
-                 alt="comic_git logo: if you can draw it, you can build it!"
-                 title="Click here to go to the comic_git help docs!">
-        </a>
+                 alt="The yellow dog Sally holding an orb of power that seems to be sparking, she herself looks concerned and strained.">
     </div>
 
     <div class="right-column">
-        <p>This is your home page! It's the main landing page for anyone visiting your website, so make sure it looks good!</p>
-
-        <p>You can change what's on this page by editing the file found at <code>/your_content/home page.txt</code>.
-            I've even included comments in that file to help you out, if you're new to HTML.</p>
-
-        <p>You'll probably want to have links like these to your <a href="comic/001/#comic-page">first</a> and
-            <a href="latest/#comic-page">last</a> comic pages on your homepage. Or you can use buttons like those below!</p>
-
+        <h1>Welcome to the world of <i>Wild Surge!</i></h1>
+		<p>In this world, every sentient living creature is blessed with magic, all with the exception of animals. So it's a huge mystery when from the sky a dog comes crashing down who seems to have magical abilities of her own!</p>
+		
+		<h2>The comic is just starting!</h2>
+		<p>More will be unfolding so check out the comic as the setting expands!</p>
+	
         <!-- If you want to make your link look like a button, add class="button" to your 'a' tag like so: -->
-        <a class="button" href="comic/001/#comic-page">First Page</a>
-        <a class="button" href="latest/#comic-page">Latest Page</a>
+		<a href="comic/001/#comic-page">
+            <img src="your_content/images/navigation_icons/Icon_First.png"
+                 alt="comic_git logo: Fancy arrow pointing left with the words "First"!"
+                 title="First page!">
+				 
+        		<a href="latest/#comic-page">
+            <img src="your_content/images/navigation_icons/Icon_Latest.png"
+                 alt="Fancy arrow pointing left with the words "Latest"!"
+                 title="Latest page!">
 
         <!--
         If you want to set some information apart, you can set the class as "infobox"! That will put your content in a
         different block of color, which can be defined in stylesheet.css.
         -->
-        <p class="infobox">(You will need to manually update the link to your first comic page yourself, but the
-            <code>latest</code> page will always point to your newest comic!)</p>
+       
     </div>
 </div>
 <!-- That's the end of the column layout! Everything below this is just normal HTML. -->
 
-<h2>Need some hints on where to go next?</h2>
-<p>Check out your <a href="comic/001/#comic-page">First Page</a> for some ideas of what you can do with comic_git!</p>
+<h2>Check out my other comic, Star Warriors!</h2>
+        <a href="https://www.starwarriorscomic.com">
+            <img src="your_content/images/SWBannerFG.png"
+                 alt="A banner of the webcomic "Star Warriors" depicting an anthro fox named Ezmeralda who is missing an arm holding up a shiny star, a small rat with a red glowing rapier named Anthrax, a human taking a picture with her phone named Weaver. In the back there is another anthro fox with glowing golden claws and long hair named Miracle and an anthro lizard who looks grumpy named Savra. In the back there is a large shiny structure floating in space."
+                 title="My other comic Star Warriors!">
+        </a>
