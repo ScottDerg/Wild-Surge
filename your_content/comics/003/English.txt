@@ -1,3 +1,8 @@
-NARRATOR: This is an English transcript.
+DRAGON: Uh... you okay there?
+DRAGON: Aw geez, that looked like a bad fall.
+	> TWITCH: Note: Throughout the story, dialogue from chat member's characters are controlled by their respective users.
+	
+DRAGON: you don't look ***TOO*** banged up.
+DRAGON: An enchantment maybe?
 
-NARRATOR: See [the documentation](https://comic-git.gitbook.io/documentation/advanced-editing/extra-features#transcripts) for more information on how to use this feature.
+DOG: H-huh?

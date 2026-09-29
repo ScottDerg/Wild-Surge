@@ -1,0 +1,18 @@
+PERRA: ¡Señorita!
+PERRA: Uhh, ¿has visto mi pelota?
+
+...
+
+
+DRAGÓNA: tu... pelota.
+DRAGÓNA: Acabas de caer del cielo, y tu primera pregunta es...
+DRAGÓNA: ***¿¡donde está tu pelota!?***
+
+PERRA: **¡Ahí está!**
+
+TIRADA DE HECHIZO:
+> LA PERRA USA LEVITACIÓN A SU PELOTA.
+> Tirada de hechizo: 2 o más
+> Tirado el 24 de Sep 2025
+> 7
+## ¡ÉXITO!

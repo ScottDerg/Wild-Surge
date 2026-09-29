@@ -26,7 +26,9 @@
 		
 		<h2>The comic is just starting!</h2>
 		<p>More will be unfolding so check out the comic as the setting expands!</p>
-	
+
+	</div>
+		 <div class="right-column">
         <!-- Navigation bars in the main page go here -->
 		<a href="comic/001/#comic-page">
             <img src="your_content/images/navigation_icons/Icon_First.png"
@@ -43,6 +45,7 @@
 </div>
 <div class="right-column-layout">
 <h2>Check out my other comic, Star Warriors!</h2>
+
 	<a href="https://www.starwarriorscomic.com">
             <img src="https://www.wildsurgecomic.com/your_content/images/SWBannerFG.png">
 			    </div>
