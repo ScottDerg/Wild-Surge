@@ -41,8 +41,10 @@
        
     </div>
 </div>
+<div class="right-column-layout">
 	<a href="https://www.starwarriorscomic.com">
             <img src="https://www.wildsurgecomic.com/your_content/images/SWBannerFG.png">
+			    </div>
 <!-- That's the end of the column layout! Everything below this is just normal HTML. -->
 
 <h2>Check out my other comic, Star Warriors!</h2>
