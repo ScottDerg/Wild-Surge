@@ -37,12 +37,11 @@
             <img src="your_content/images/navigation_icons/Icon_Latest.png"
                  alt="Fancy arrow pointing left with the words "Latest"!"
                  title="Latest page!"></a>
-				 
-				         <a href="https://www.starwarriorscomic.com">
-            <img src="https://www.wildsurgecomic.com/your_content/images/SWBannerFG.png">
-        </a>
+
        
     </div>
+	<a href="https://www.starwarriorscomic.com">
+            <img src="https://www.wildsurgecomic.com/your_content/images/SWBannerFG.png">
 </div>
 <!-- That's the end of the column layout! Everything below this is just normal HTML. -->
 
