@@ -2,5 +2,5 @@ NARRATOR: Magic is like falling, the higher your fall ...
 
 [SFX: CRASH!]
 
-<p class="infobox">TWITCH: Random chatter character from: Gigabyte_Dragon</p>
+	> **TWITCH: Random chatter character from: Gigabyte_Dragon**
 NARRATOR: ... the stronger and more unpredictable the impact.
