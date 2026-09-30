@@ -21,14 +21,10 @@
     </div>
 
     <div class="right-column-layout">
+	
         <h1>Welcome to the world of <i>Wild Surge!</i></h1>
 		<p>In this world, every sentient living creature is blessed with magic, all with the exception of animals. So it's a huge mystery when from the sky a dog comes crashing down who seems to have magical abilities of her own!</p>
 		
-		<h2>The comic is just starting!</h2>
-		<p>More will be unfolding so check out the comic as the setting expands!</p>
-
-	</div>
-		 <div class="right-column">
         <!-- Navigation bars in the main page go here -->
 		<a href="comic/001/#comic-page">
             <img src="your_content/images/First Page thumbnail.png"
@@ -37,10 +33,11 @@
         		<a href="latest/#comic-page">
             <img src="your_content/images/Latest Page thumbnail.png"
                  title="Latest page!"></a>
-
-       
-    </div>
-</div>
+		
+		<h2>The comic is just starting!</h2>
+		<p>More will be unfolding so check out the comic as the setting expands!</p>
+		</div>
+	</div>
 <div>
 <h2>Check out my other comic, Star Warriors!</h2>
 <br>
