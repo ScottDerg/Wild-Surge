@@ -36,8 +36,9 @@
 		
 		<h2>The comic is just starting!</h2>
 		<p>More will be unfolding so check out the comic as the setting expands!</p>
-		</div>
 	</div>
+    </div>
+</div>
 <div>
 <h2>Check out my other comic, Star Warriors!</h2>
 <br>
