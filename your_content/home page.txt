@@ -42,10 +42,7 @@
 
        
     </div>
-</div>
-<div class="right-column-layout">
 <h2>Check out my other comic, Star Warriors!</h2>
-
 	<a href="https://www.starwarriorscomic.com">
             <img src="https://www.wildsurgecomic.com/your_content/images/SWBannerFG.png">
 			    </div>
