@@ -1,3 +1,15 @@
-NARRATOR: This is an English transcript.
+DOG: **Huh?!**
 
-NARRATOR: See [the documentation](https://comic-git.gitbook.io/documentation/advanced-editing/extra-features#transcripts) for more information on how to use this feature.
+DOG: **Oh!** That's right! **I know magic!**
+
+DRAGON: **HOW DID YOU DO THAT!?!?**
+
+DOG: Oh, sorry!
+DOG: I'm actually ***not*** quite sure!
+
+DOG: Do you know someone who might?
+DRAGON: I... uh... I mean I guess there's ***Umbra***? But that- that shouldn't...
+
+DRAGON: ***DOGS SHOULDN'T BE ABLE TO DO MAGIC! THAT'S IMPOSSIBLE!***
+DOG: Yeah, ***exactly***!
+DOG: So... where is this "Umbra" at?
