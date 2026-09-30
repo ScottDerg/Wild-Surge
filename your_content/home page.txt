@@ -31,13 +31,11 @@
 		 <div class="right-column">
         <!-- Navigation bars in the main page go here -->
 		<a href="comic/001/#comic-page">
-            <img src="your_content/images/navigation_icons/Icon_First.png"
-                 alt="comic_git logo: Fancy arrow pointing left with the words "First"!"
+            <img src="your_content/images/First Page thumbnail.png"
                  title="First page!"></a>
 				 
         		<a href="latest/#comic-page">
-            <img src="your_content/images/navigation_icons/Icon_Latest.png"
-                 alt="Fancy arrow pointing left with the words "Latest"!"
+            <img src="your_content/images/Latest Page thumbnail.png"
                  title="Latest page!"></a>
 
        
