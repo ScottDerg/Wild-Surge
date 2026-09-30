@@ -43,7 +43,7 @@
        
     </div>
 </div>
-<div class="right-column-layout">
+<div>
 <h2>Check out my other comic, Star Warriors!</h2>
 <br>
 	<a href="https://www.starwarriorscomic.com">
