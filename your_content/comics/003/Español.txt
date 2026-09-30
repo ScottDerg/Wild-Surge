@@ -1,5 +1,6 @@
 DRAGÓNA: Uh... Oye, ¿estás bien?
 DRAGÓNA: Caray, esa caída se vio bien fea.
+
 > TWITCH: Nota: a lo largo de la historia, los diálogos de los personajes de los miembros del chat están controlados por sus respectivos usuarios.
 	
 DRAGÓNA: No pareces estar ***demasiado*** lastimada.
