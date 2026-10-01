@@ -18,6 +18,9 @@ body {
     background-color: white;  /* The color of the background behind everything */
     background-image: url("../../../images/background_image.png");  /* The pattern on the background. Delete to change to a solid color
                                                                        or replace with your own image to tile across your background. */
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: bottom;
 }
 
 h1, h2, h3 {
@@ -91,6 +94,10 @@ code {
     padding-left: 5px;  /* A little padding between the text and the border on the left... */
     padding-right: 5px;  /* ... and the right. */
     white-space: pre; /* Prevents code blocks from being word-wrapped */
+}
+#transcript-panel code {
+    text-wrap: wrap;
+    display: block; /* Code added to create a box on the transcript for specific UI elements in the comic */
 }
 
 #post-title {
