@@ -1,7 +1,9 @@
 DRAGON: Uh... you okay there?
 DRAGON: Aw geez, that looked like a bad fall.
 
-<p class="infobox">TWITCH: Note: Throughout the story, dialogue from chat member's characters are controlled by their respective users.</p>
+```
+TWITCH: Note: Throughout the story, dialogue from chat member's characters are controlled by their respective users.
+```
 	
 DRAGON: you don't look ***TOO*** banged up.
 DRAGON: An enchantment maybe?
