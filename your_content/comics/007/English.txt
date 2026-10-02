@@ -1,3 +1,11 @@
-NARRATOR: This is an English transcript.
+WIZARD: I'll even set the sign to closed! Okay?
 
-NARRATOR: See [the documentation](https://comic-git.gitbook.io/documentation/advanced-editing/extra-features#transcripts) for more information on how to use this feature.
+WIZARD: I'll be back real soon!
+[SFX: SLAM!]
+
+KAIA: blazing suns, Umbra. That door isn't invincible.
+
+KAIA: ***The Wizard's pets*** can stay closed for now.
+
+KAIA: Today has been a slow day anyways ...
+KAIA: and Umbra ***does*** need his mana intake.

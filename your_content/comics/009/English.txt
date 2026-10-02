@@ -1,3 +1,10 @@
-NARRATOR: This is an English transcript.
+KAIA: Gosh! finally! This could change the whole world!
 
-NARRATOR: See [the documentation](https://comic-git.gitbook.io/documentation/advanced-editing/extra-features#transcripts) for more information on how to use this feature.
+[SFX: DING! DING!]
+KAIA: *Ahem*
+KAIA: ***Sorry! We are closed!*** Please come back in an hour!
+
+CERULEAN KNIGHT: This is the CERULEAN GUARD
+CERULEAN KNIGHT: You **WILL** make yourself present.
+
+CERULEAN KNIGHT: I have a few questions.

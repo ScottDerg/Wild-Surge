@@ -1,3 +1,13 @@
-NARRATOR: This is an English transcript.
+UMBRA: ***Of course***. The blue bastards just **had** to be here. **And** a soul warden?
 
-NARRATOR: See [the documentation](https://comic-git.gitbook.io/documentation/advanced-editing/extra-features#transcripts) for more information on how to use this feature.
+UMBRA: What **is** this?
+
+CERULEAN KNIGHT: Hey! You stipid wizard. What are you doing?
+
+UMBRA: Oh, **hey!** What's up?
+CERULEAN KNIGHT: Come with me.
+
+UMBRA: I'll be taken in by the cerulean guard *ohhh nooooo~*
+
+CERULEAN KNIGHT: ... don't do that.
+UMBRA: But it's funny.

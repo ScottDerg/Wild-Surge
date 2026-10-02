@@ -1,3 +1,18 @@
-NARRATOR: This is an English transcript.
+CERULEAN KNIGHT: NO! YOU STUPID WAND!
+CERULEAN KNIGHT: Okay... let's see. Try again ...
+CERULEAN KNIGHT: ... cast a spell that will alter the facial expression of the target, but make it calm.
+CERULEAN KNIGHT: ... there, that's better.
 
-NARRATOR: See [the documentation](https://comic-git.gitbook.io/documentation/advanced-editing/extra-features#transcripts) for more information on how to use this feature.
+CERULEAN KNIGHT: I should conserve mana on this thing, just in case.
+CERULEAN KNIGHT: Magic... I couldn't understand su-
+
+DOG: Oooooo~! it's so quaint and cute!
+
+DOG: closed...? But the door is ajar!
+
+DOG: **Whoa!** cozy! Hello? Mister Umbra? I'm here to see you!
+
+DOG: Ohh! A cat vendor!
+KAIA?: Customer!
+
+KAIA?: We are closing! But feel free to look around!
