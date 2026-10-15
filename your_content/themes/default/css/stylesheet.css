@@ -113,3 +113,6 @@ code {
 #storyline, #characters, #tags {
     font-style: italic;  /* Delete this to unitalicize the tags */
 }
+.infobox img {
+  max-width: 100%;
+}
