@@ -1,5 +1,5 @@
 Gotta start strong...
 
-<p class="infobox"><img src="UI stuff/Headshot.png"></p>
+<p class="infobox"><img src="/your_content/comics/001/UI stuff/Headshot.png"></p>
 
 This is a hobby webcomic I am starting. This comic is essentially the comic I will be doing on my free time, but more importantly... this comic can ONLY be made during Twitch streams at https://www.twitch.tv/scottderg!
