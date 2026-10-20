@@ -1,5 +1,7 @@
 Seems like many different looking people visit the Wizard's Pets quite often! Look at all those ads!
 
+<p class="infobox"><img src="/your_content/comics/007/UI stuff/Headshot.png"></p>
+
 Advertisements found here are from the following webcomics:
 [Slightly Damned](https://www.sdamned.com)
 [Yokoka's Quest](https://yokokasquest.com)

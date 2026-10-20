@@ -1,1 +1,3 @@
 Eyyy the cat is doing some fun alchemy things! Hehehe! I wonder what kind of things this cat is cookin up!
+
+<p class="infobox"><img src="/your_content/comics/008/UI stuff/Headshot.png"></p>

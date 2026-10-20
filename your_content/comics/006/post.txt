@@ -1,3 +1,5 @@
 Here we are in a little store in the woods, how quaint!
 
+<p class="infobox"><img src="/your_content/comics/006/UI stuff/Headshot.png"></p>
+
 The rendering of this was very very fun to do and adding the little bits of detail too!
